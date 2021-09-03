@@ -20,6 +20,14 @@ champ = DataDragon.ko_KR.Champions[114]
 @info champ.name == "피오라"
 ```
 
+### how to install this package
+
+```
+julia> using Pkg
+
+julia> Pkg.add(PackageSpec(url="https://github.com/wookay/LOLToolsDataDragon.jl.git"))
+```
+
 
 [docs-latest-img]: https://img.shields.io/badge/docs-latest-blue.svg
 [docs-latest-url]: https://wookay.github.io/docs/LOLToolsDataDragon.jl/
