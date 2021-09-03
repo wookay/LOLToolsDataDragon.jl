@@ -5,7 +5,7 @@
 |  [![][docs-latest-img]][docs-latest-url]  |  [![][actions-img]][actions-url]  [![][codecov-img]][codecov-url]  |
 
 ### info
- * Riot Developer Portal :  <https://developer.riotgames.com/apis>
+ * Riot Developer Portal - Data Dragon :  <https://developer.riotgames.com/docs/lol#data-dragon>
 
 
 ### DataDragon
