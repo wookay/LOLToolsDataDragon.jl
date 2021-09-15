@@ -22,7 +22,7 @@ champ = DataDragon.ko_KR.Champions[114]
 
 ### how to install this package
 
-```
+```julia
 julia> using Pkg
 
 julia> Pkg.add(PackageSpec(url="https://github.com/wookay/LOLToolsDataDragon.jl.git"))
